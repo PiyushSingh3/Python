@@ -10,3 +10,4 @@ h=(1, 2, 3) # h is a tuple
 i={1, 2, 3} # i is a set
 j={'key1': 'value1', 'key2': 'value2'} # j is a dictionary
 
+#Rules for defining Veriables:
