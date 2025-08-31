@@ -1,0 +1,12 @@
+#Variable= 22 
+Variable= 22.22
+TypeCast = type(Variable) # class <int>
+
+print(TypeCast)
+
+a = 10
+b = float(a) # Type casting integer to float
+
+print(a)  # 10
+print(b)  # 10.0
+
